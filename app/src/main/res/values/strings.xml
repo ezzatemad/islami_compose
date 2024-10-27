@@ -1,4 +1,30 @@
 <resources>
     <string name="app_name">Islami Compose</string>
     <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_quran_content">QuranContentActivity</string>
+    <string name="title_activity_haadeth_content">HaadethContentActivity</string>
+    <string name="default_background">default background</string>
+    <string name="islami">Islami</string>
+    <string name="quran_icon">Quran</string>
+    <string name="quranscreen">QuranScreen</string>
+    <string name="quran">Quran</string>
+    <string name="hadeth_icon">Hadeth</string>
+    <string name="hadethscreen">HadethScreen</string>
+    <string name="hadeth">Hadeth</string>
+    <string name="sebha_icon">Sebha</string>
+    <string name="sebhascreen">SebhaScreen</string>
+    <string name="sebha">Sebha</string>
+    <string name="radio_icon">Radio</string>
+    <string name="radioscreen">RadioScreen</string>
+    <string name="radio">Radio</string>
+    <string name="quran_image_header">quran_image_header</string>
+    <string name="sura_name_header">اسم السورة</string>
+    <string name="sura_name">SURA_NAME</string>
+    <string name="sura_index">SURA_INDEX</string>
+    <string name="back_icon">Back</string>
+    <string name="hadeth_image_header">hadeth_image_header</string>
+    <string name="alahadyth">الاحاديث</string>
+    <string name="hadeth_name">HADETH_NAME</string>
+    <string name="hadeth_index">HADETH_INDEX</string>
+    <string name="unkown">unkown</string>
 </resources>
